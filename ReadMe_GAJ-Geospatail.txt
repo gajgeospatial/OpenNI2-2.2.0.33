@@ -1,0 +1,1 @@
+This project should be installed as OPENNI2_DIR with ProjectTool.
